@@ -1,0 +1,9 @@
+{
+  "description": "A simple POST to the initial route",
+  "pathname": "/todos",
+  "method": "GET",
+  "headers": {
+    "content-type": "application/json",
+    "authorization": "Bearer zpka_d5f8c4b900e14cafa239038384611f3e_1cff4025"
+  }
+}
